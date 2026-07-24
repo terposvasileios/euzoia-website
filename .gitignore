@@ -13,3 +13,5 @@ assets/video/hero-mobile.mp4
 # Local development and operating-system files.
 .DS_Store
 *.log
+euzoia-production.zip
+euzoia-production/

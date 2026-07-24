@@ -1,0 +1,8 @@
+# Never publish repository metadata or internal project documentation.
+**/.git
+**/.DS_Store
+.gitignore
+.assetsignore
+README.md
+DEPLOYMENT.md
+wrangler.jsonc

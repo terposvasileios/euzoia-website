@@ -1,0 +1,15 @@
+# Original and working media are preserved locally, not deployed.
+assets/originals/
+hero-video-final/
+hero-mobile-fullscreen-final/
+Euzoia hero statikh.png
+hero video.mp4
+hero video without star.mp4
+assets/images/hero-static.avif
+assets/video/hero-desktop.mp4
+assets/video/hero-desktop.webm
+assets/video/hero-mobile.mp4
+
+# Local development and operating-system files.
+.DS_Store
+*.log

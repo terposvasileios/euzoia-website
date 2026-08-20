@@ -100,19 +100,18 @@ body {
   padding: clamp(1.5rem, 7vw, 7.5rem);
   place-items: center;
   overflow: hidden;
-  background: #173f39;
+  background: #d8d0c0;
+  color: #29443e;
   text-align: center;
 }
 
 .coming-soon h2 {
-  max-width: 12ch;
+  max-width: 30rem;
   margin: 0;
-  font-family: Didot, "Bodoni 72", "Iowan Old Style", "Times New Roman", serif;
-  font-size: clamp(3.5rem, 9vw, 9rem);
-  font-style: italic;
-  font-weight: 400;
-  letter-spacing: -0.045em;
-  line-height: 0.95;
+  font-size: clamp(0.9rem, 1.15vw, 1.15rem);
+  font-weight: 300;
+  letter-spacing: 0.09em;
+  line-height: 1.5;
   text-wrap: balance;
 }
 

@@ -89,6 +89,33 @@ body {
   opacity: 1;
 }
 
+.coming-soon {
+  position: relative;
+  display: grid;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  min-height: 100vh;
+  min-height: 100svh;
+  padding: clamp(1.5rem, 7vw, 7.5rem);
+  place-items: center;
+  overflow: hidden;
+  background: #173f39;
+  text-align: center;
+}
+
+.coming-soon h2 {
+  max-width: 12ch;
+  margin: 0;
+  font-family: Didot, "Bodoni 72", "Iowan Old Style", "Times New Roman", serif;
+  font-size: clamp(3.5rem, 9vw, 9rem);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -0.045em;
+  line-height: 0.95;
+  text-wrap: balance;
+}
+
 .motion-message {
   position: absolute;
   right: 1rem;
